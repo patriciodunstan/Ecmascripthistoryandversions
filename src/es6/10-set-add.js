@@ -6,7 +6,6 @@ list.add('item2').add('item3');
 console.log(list);
 //Cómo manipular los Sets
 //Para manipular estas estructuras de datos, existen los siguientes métodos:
-
 //add(value): añade un nuevo valor.
 //delete(value): elimina un elemento que contiene el Set, retorna un booleano si existía o no el valor.
 //has(value): retorna un booleano si existe o no el valor dentro del Set.
